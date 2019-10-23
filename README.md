@@ -60,3 +60,10 @@ Windows CMD:
 PS C:\> python newpy.py
 Name of new python file (minus .py): myfile
 ```
+
+## project_setup
+
+#### Supported OS(s):
+* Windows 10
+
+*project_setup* opens 4 PowerShell prompts in the current directory, 2 PowerShell prompts running iPython, Google Chrome in incognito mode, and Spotify. This is a very niche, system-specific program. Simply copy to a project directory and double-click.
