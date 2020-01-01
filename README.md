@@ -1,6 +1,6 @@
 # USEFULS
 
-*Usefuls* is a collection of small command line and GUI programs with the goal of making a programmer's life easier. If you're a programmer, inspect the files, and you'll know how to download/install/run the various programs. NOTE: PyQt5 is required to run GUI versions of the *Usefuls* programs.
+*Usefuls* is a collection of small command line and GUI programs designed to make a programmer's life easier. If you're a programmer, inspect the files, and you'll know how to download/install/run the various programs. NOTE: PyQt5 is required to run GUI versions of the *Usefuls* programs.
 
 The format of the individual programs (command line/GUI) and supported OS's will be noted in their descriptions.
 
