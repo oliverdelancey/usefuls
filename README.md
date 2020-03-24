@@ -37,6 +37,8 @@ Formatted filepath:     "C:/very/long/filepath/whatever"
 
 ## newpy
 
+NOTE: For Linux/macOS, `newpy` is deprecated in favor of `nff` (see [https://github.com/oliversandli/NewFormattedFile](https://github.com/oliversandli/NewFormattedFile))
+
 #### Program Format(s):
 * Command Line
 
